@@ -1,4 +1,4 @@
-###Reentrega-Práctica Estadística
+### Reentrega-Práctica Estadística
 
 ## José Manuel Guzmán Gutiérrez
 
